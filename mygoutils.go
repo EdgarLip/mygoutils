@@ -8,5 +8,5 @@ func Get_package_name() string {
 }
 
 func Print_tag() {
-	fmt.Printf("utilhelper ! \n")
+	fmt.Printf("This is go utils tag v1.0.1 \n")
 }
